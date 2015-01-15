@@ -1,6 +1,6 @@
-* The covers of the books of Sri Chinmoy
+* Original covers of Sri Chinmoy books
 
-This repository contains the the original first-edition covers of the books by [[http://www.srichinmoy.org][Sri Chinmoy]].
+This repository contains the original first-edition covers of the books by [[http://www.srichinmoy.org][Sri Chinmoy]].
 
 
 The /Sri Chinmoy book covers/ are hosted at https://github.com/vasudevaserver/sri-chinmoy-book-covers
